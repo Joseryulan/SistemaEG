@@ -10,5 +10,6 @@ package javaapplication18;
  * @author sena
  */
 public class Egresado {
+    private String id;
     
 }
